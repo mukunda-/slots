@@ -1,6 +1,6 @@
 {
   "name": "slots",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Execution throttler",
   "main": "lib/slots.js",
   "types": "lib/slots.d.ts",
@@ -44,7 +44,9 @@
     "transform": {
       "^.+\\.(t|j)sx?$": "ts-jest"
     },
-    "testMatch": ["**/*.test.ts"],
+    "testMatch": [
+      "**/*.test.ts"
+    ],
     "moduleFileExtensions": [
       "ts",
       "tsx",
