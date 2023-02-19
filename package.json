@@ -10,7 +10,7 @@
     "lint": "npx eslint .",
     "prepare": "npm run build",
     "prepublishOnly": "npm test && npm run lint",
-    "preversion": "npm run lint",
+    "preversion": "npm run lint"
   },
   "repository": {
     "type": "git",
