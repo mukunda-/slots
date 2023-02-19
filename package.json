@@ -1,5 +1,5 @@
 {
-  "name": "slots",
+  "name": "@mukunda/slots",
   "version": "1.0.1",
   "description": "Execution throttler",
   "main": "lib/slots.js",
